@@ -63,7 +63,7 @@ Focusing on Android and iOS applications, implementing new features, updates, an
 
 ## 📫 Contact Me
 - **Email**: [luiz.kirk4@gmail.com](mailto:luiz.kirk4@gmail.com)
-- **LinkedIn**: [Luiz Augusto LinkedIn](https://linkedin.com/in/luiz-augusto)
+- **LinkedIn**: [Luiz Augusto LinkedIn](https://www.linkedin.com/in/luiz-augusto-4576641b1)
 
 ---
 
