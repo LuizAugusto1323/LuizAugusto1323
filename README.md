@@ -27,7 +27,7 @@ Focusing on Android and iOS applications, implementing new features, updates, an
 
 ### **Mobile Developer (Pleno)**
 - Lead the development, testing, and maintenance of Android and iOS applications.
-- Published apps: **DSPLAYER**, **STX2436BT**, **STROBO RGB**.
+- Published apps:  **STX DSP**, **DSPLAYER**, **STROBO RGB**.
 - Responsibilities include optimizing resources, implementing new functionalities, and maintaining app performance.
 
 ---
@@ -44,15 +44,15 @@ Focusing on Android and iOS applications, implementing new features, updates, an
 
 ## 💻 Featured Projects
 
+### [STX DSP](https://play.google.com/store/apps/details?id=br.com.stetsom.stxbt&hl=pt_BR)
+- **Description**: Android app for managing Bluetooth-enabled devices, optimizing user experience.
+- **Technologies**: Kotlin, Bluetooth, UI Design.
+- **Highlights**: Smooth user interaction and reliable device pairing.
+
 ### [DSPLAYER](https://play.google.com/store/apps/details?id=br.com.stetsom.dsplayer&hl=pt_BR)
 - **Description**: A mobile app developed for controlling DSPLAYER devices with real-time updates and settings.
 - **Technologies**: Kotlin, Jetpack Compose, Bluetooth Integration.
 - **Highlights**: Real-time data synchronization and efficient device control.
-
-### [STX2436BT](https://play.google.com/store/apps/details?id=br.com.stetsom.stxbt&hl=pt_BR)
-- **Description**: Android app for managing Bluetooth-enabled devices, optimizing user experience.
-- **Technologies**: Kotlin, Bluetooth, UI Design.
-- **Highlights**: Smooth user interaction and reliable device pairing.
 
 ### [STROBO RGB](https://play.google.com/store/apps/details?id=br.com.stetsom.stroboRgb&hl=pt_BR)
 - **Description**: RGB controller app for smart lighting with color customizations and remote control.
