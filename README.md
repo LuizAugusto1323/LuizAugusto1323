@@ -49,7 +49,7 @@ Focusing on Android and iOS applications, implementing new features, updates, an
 - **Technologies**: Kotlin, Bluetooth, UI Design.
 - **Highlights**: Smooth user interaction and reliable device pairing.
 
-### [DSPLAYER](https://play.google.com/store/apps/details?id=br.com.stetsom.dsplayer&hl=pt_BR)
+### [DSPLAYER](https://play.google.com/store/apps/details?id=br.com.stetsom.ds_player)
 - **Description**: A mobile app developed for controlling DSPLAYER devices with real-time updates and settings.
 - **Technologies**: Kotlin, Jetpack Compose, Bluetooth Integration.
 - **Highlights**: Real-time data synchronization and efficient device control.
